@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+.env
+*.env
+
+# Django stuff
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Byte-compiled
+*.pyo
+*.pyd
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Migrations cache
+*/migrations/__pycache__/
